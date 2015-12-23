@@ -27,4 +27,4 @@ Create one R script called run_analysis.R that does the following.
 
 [run_analysis.R] contains all the code to perform the analyses described in the 5 steps. 
 
-The output of the 5th step is called [tidy_data.txt], and uploaded in the course project's form.
+
